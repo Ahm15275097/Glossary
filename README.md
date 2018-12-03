@@ -9,7 +9,9 @@ A programming algorithm is a step by step guide that a computer is required to f
    - An algorithm would be created
    - Some research can be done
    - Brainstorm solutions to meet requirements
+        
         The team can look at the aesthetics of the application
+        
         How the user would interact with the application
    - Choose a solution that best fits the requirements 
 5. Implementation of the application can take place
