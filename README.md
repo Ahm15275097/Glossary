@@ -7,7 +7,14 @@ A programming algorithm is a step by step guide that a computer is required to f
 3. Choosing a software lifecycle methodology to follow
 4. The design process can take place next
    - An algorithm would be created
-   - Some research can be done
+   - Research of the application can be done
+        
+        Who the target audience are?
+        
+        Looking at existing solutions and see what improvements can be made
+        
+               
+        
    - Brainstorm solutions to meet requirements
         
         The team can look at the aesthetics of the application
