@@ -13,6 +13,8 @@ A programming algorithm is a step by step guide that a computer is required to f
         The team can look at the aesthetics of the application
         
         How the user would interact with the application
+        
+        
    - Choose a solution that best fits the requirements 
 5. Implementation of the application can take place
    - What programming language can be used?
