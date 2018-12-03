@@ -37,3 +37,25 @@ A programming algorithm is a step by step guide that a computer is required to f
 
 # Give explanations of what procedural, object orientated and event driven paradigms are; their characteristics and the relationship between them.
 
+**Procedural programming**
+
+Procedural programming is a language that is based upon the thought of procedure calls, this is when statements are structured into procedures, this can also be called sub routines or functions. 
+
+This type of language has predefined variables local variables, global variables, programming libraries.
+
+Local variable: 
+
+Global variable:
+
+Programming libraires:
+
+
+            srand(time(NULL));
+            cout << "This is the first number: ";
+            int randomNumber1(rand() % 10 + 1);
+            cout << randomNumber1 << endl; 
+
+
+
+****
+
