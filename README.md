@@ -34,6 +34,19 @@ A programming algorithm is a step by step guide that a computer is required to f
 9. They will then give the application to the client
 7. Lastly, some maintenance can take place
 
+# Determine the steps taken from writing code to execution.
+
+These are the steps which need to be taken from writing the code to the code being executed.
+
+Preprocessor: This is not part of the compiler, but is in the compilation process. It is a text substitution tool and it commands the compiler to do the necessary pre processing before the actual compilation begins. 
+
+Compiler: This is a software program that changes high-level source code into low level object code (or binary code) in machine language, this is so it can be understood by the processor. It translate the code from one language to another without changing the meaning. 
+
+Linker: In high level languages, some built in header files or libraires are stored. These predefined libraires have basic functions which are very important for executing the program. The functions are connected to the libraries by a program called linker.
+
+Loader: This is a program which loads machine codes of a program into the system memory. This is the part which is in charge for loading programs. 
+
+
 
 # Give explanations of what procedural, object orientated and event driven paradigms are; their characteristics and the relationship between them.
 
@@ -73,7 +86,39 @@ Polymorphism  : This is the power to live in various forms. An operator can be o
 
 **Event driven programming**
 
-Event driven programming is a paradigm which is subject to events like user actions, this could be mouse clicks or key presses. This paradigm is very useful GUI's and other applications such as games. 
+Event driven programming is a paradigm which is subject to events like user actions, this could be mouse clicks or key presses. This paradigm is very useful in GUI's and other applications such as games. The traceball game which I created was an event driven program because it required mousemovement. 
+
+https://github.com/Ahm15275097/Traceball/blob/master/code.html
+
+![example](https://i.imgur.com/CQBseRE.png)
+
+Event handlers: The function or method will be executed in response to an action taking place, for example a key being pressed or the mouse being moved. 
+
+Trigger functions: These are functions that decide which piece of code is executed when a certain event occurs
+
+![](https://i.imgur.com/84SmQSp.png)
+
+# Explain  the  debugging  process and explain  the debugging  facilities  available  in  the  IDE. 
+
+This is the process in which bugs and erros are found and removed within computer programs
+
+**Debugging process**
+
+Gather information on the error: If there are error's in the code it will terminate as soon as the user would like to run the run the program. information is given on the error and the user will take all the information to help them fix the problem.
+
+Isolate source of the bug: This part of the process is to search for which part of the program is causing the error. Iterative testing is used in this part of the process. Iterative testing can help the debugger find where the error is occuring.
+
+Identify the cause of the bug: This step requires finding the actal cause of the bug. Here the developer is finding out why the bug exists. A trained debugger can isolate where the error has come from, but someone who is more expereinced can be more accurate and identify the actual cause of the error. 
+
+Determine fix for bug: From finding out the location of the bug and the cause of the bug, the developer can can now come up with an appropriate fix for this error. 
+
+Fix and test: Now that the devloper has come up with a solution, the fix should be implemented and tested to see if that has solved the problem.
+
+
+**Debugging facilities**
+
+The IDE gives the user a debugging tab in its application, this application has different tools in the drop down menu. For example, in the Python IDE, the developer can set break points in the code. These break points allow the developer to examine variables, step forward line by line and show code as it executes. Also in python IDE, after the program has been run and a error was found, Python will tell the developer on what line and where on that line the error has occured.    
+
 
 
 
