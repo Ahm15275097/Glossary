@@ -98,6 +98,24 @@ Trigger functions: These are functions that decide which piece of code is execut
 
 ![](https://i.imgur.com/84SmQSp.png)
 
+# Analyse the common features that a developer has access to in an IDE
+
+In an IDE a developer has many tools to help them write code quickly and efficiently. Below are just some features which a developer has access to. 
+
+Code completion: An IDE has the ability to know a language's keywords and functions which makes it easier to code. The can use this to do tasks such as highlight errors, suggest a list of available functions based on a certain situation or give a function's definition from the official documentation.
+
+Syntax highlighting: This features displays the code in different colours and fonts, this is in according to which category it belongs to. This is integrated to help make the code more readable, this can be more of an assistance for large pieces of code. This makes it more easier to find what they are looking for.
+
+Resource management: languages often depend on specific resources like library or header files to be at a certain locations. IDE ought to have the capability to manage these resources. The IDE should be aware of any required resources so that errors can be found early i the development stage not in the compile or build stage. 
+
+Compile and build:  IDEs translate code from  languages to the object code(code that is produced by the compiler) of the platform. Requirements for these features vary substantially from language to language. Normally, an IDE specialises in one language or a set of similar languages. 
+
+Debugging: IDE's also have an internal debugger, the developer can use this tool to see if there are any errors in the code. The debugger can help the developer clear any faults if they are present. 
+
+
+
+
+
 # Explain  the  debugging  process and explain  the debugging  facilities  available  in  the  IDE. 
 
 This is the process in which bugs and erros are found and removed within computer programs
