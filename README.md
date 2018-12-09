@@ -118,7 +118,7 @@ Debugging: IDE's also have an internal debugger, the developer can use this tool
 
 # Explain  the  debugging  process and explain  the debugging  facilities  available  in  the  IDE. 
 
-This is the process in which bugs and erros are found and removed within computer programs
+This is the process in which bugs and erros are found and removed within computer programs. This is handled in a sequential manner by debugging tools. 
 
 **Debugging process**
 
@@ -136,6 +136,13 @@ Fix and test: Now that the devloper has come up with a solution, the fix should 
 **Debugging facilities**
 
 The IDE gives the user a debugging tab in its application, this application has different tools in the drop down menu. For example, in the Python IDE, the developer can set break points in the code. These break points allow the developer to examine variables, step forward line by line and show code as it executes. Also in python IDE, after the program has been run and a error was found, Python will tell the developer on what line and where on that line the error has occured.    
+
+# Evaluate how the debugging process can be used to help develop more secure, robust applications. 
+
+Programs go through alot of  testing, updating, troubleshooting and maintenance. Faults and errors are normally present in software, but this is easily removed. In this process, complete software programs are regularly compiled and executed to see if issues can be found and rectified. Large software programs, which contain millions of source code lines, are divided into small components. For efficiency, each component is debugged separately at first, followed by the program as a whole.
+
+The debugging process helps remove bugs and faults throughout the development of the application.  
+
 
 
 
