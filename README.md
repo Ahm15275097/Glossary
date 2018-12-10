@@ -49,7 +49,18 @@ Linker: In high level languages, some built in header files or libraires are sto
 Loader: This is a program which loads machine codes of a program into the system memory. This is the part which is in charge for loading programs. 
 
 
-**Interpreter** : In an interpreter the program is translated one at a time. The program continues to translate the code until the first error is met, in which case it stops. This way debugging is made easier. The disadvantage of this is that the execution time is much slower compared to a compiler. 
+**Interpreter** : In an interpreter the program is translated one at a time. The program continues to translate the code until the first error is met, in which case it stops. 
+
+This is how a program is executed in relation to an interpreter:
+
+1. Parse the source code and perform its behavior directly
+
+Parsing is the process of analysing a string of symbols, this can be either in natural language, computer languages or data structures
+
+2. Then the source code is translated into some efficient intermediate representation and it is immediately executed
+
+
+3. Explicitly execute the stored precompiled code produced by a compiler which is part of the interpreter system
 
 
 
