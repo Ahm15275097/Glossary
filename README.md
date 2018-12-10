@@ -134,7 +134,9 @@ Fix and test: Now that the devloper has come up with a solution, the fix should 
 
 **Debugging facilities**
 
-The IDE gives the user a debugging tab in its application, this application has different tools in the drop down menu. For example, in the Python IDE, the developer can set break points in the code. These break points allow the developer to examine variables, step forward line by line and show code as it executes. Also in python IDE, after the program has been run and a error was found, Python will tell the developer on what line and where on that line the error has occured.    
+The IDE gives the user a debugging tab in its application, this application has different tools in the drop down menu. For example, jdeveloper by oracle, this allows the developer to set break points in the code. These break points allow the developer to examine variables, step forward line by line and show code as it executes. Also in python IDE, after the program has been run and a error was found, Python will tell the developer on what line and where on that line the error has occured.
+
+![breakpoint type](https://i.imgur.com/jvvWSRn.png)
 
 # Evaluate how the debugging process can be used to help develop more secure, robust applications. 
 
