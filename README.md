@@ -38,6 +38,8 @@ A programming algorithm is a step by step guide that a computer is required to f
 
 These are the steps which need to be taken from writing the code to the code being executed.
 
+Text editor: A text editor is where the source code is written, this can provide the developer will tools, such as syntax highlighting, to make it easier to write code. 
+
 Preprocessor: This is not part of the compiler, but is in the compilation process. It is a text substitution tool and it commands the compiler to do the necessary pre processing before the actual compilation begins. 
 
 Compiler: This is a software program that changes high-level source code into low level object code (or binary code) in machine language, this is so it can be understood by the processor. It translate the code from one language to another without changing the meaning. 
@@ -45,6 +47,9 @@ Compiler: This is a software program that changes high-level source code into lo
 Linker: In high level languages, some built in header files or libraires are stored. These predefined libraires have basic functions which are very important for executing the program. The functions are connected to the libraries by a program called linker.
 
 Loader: This is a program which loads machine codes of a program into the system memory. This is the part which is in charge for loading programs. 
+
+
+**Interpreter** : In an interpreter the program is translated one at a time. The program continues to translate the code until the first error is met, in which case it stops. This way debugging is made easier. The disadvantage of this is that the execution time is much slower compared to a compiler. 
 
 
 
