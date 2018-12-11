@@ -158,7 +158,7 @@ The IDE gives the user a debugging tab in its application, this application has 
 
 Programs go through alot of  testing, updating, troubleshooting and maintenance. Faults and errors are normally present in software, but this is easily removed. In this process, complete software programs are regularly compiled and executed to see if issues can be found and rectified. Large software programs, which contain millions of source code lines, are divided into small components. For efficiency, each component is debugged separately at first, followed by the program as a whole.
 
-The debugging process helps remove bugs and faults throughout the development of the application.  
+The debugging process helps remove bugs and faults throughout the development of the application. Taking away faults and errors from an application will lower the chance that a flaw will be in an application.   
 
 
 
