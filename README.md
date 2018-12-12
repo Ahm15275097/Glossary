@@ -156,9 +156,13 @@ The IDE gives the user a debugging tab in its application, this application has 
 
 # Evaluate how the debugging process can be used to help develop more secure, robust applications. 
 
-Programs go through alot of  testing, updating, troubleshooting and maintenance. Faults and errors are normally present in software, but this is easily removed. In this process, complete software programs are regularly compiled and executed to see if issues can be found and rectified. Large software programs, which contain millions of source code lines, are divided into small components. For efficiency, each component is debugged separately at first, followed by the program as a whole.
+Programs go through alot of  testing, updating, troubleshooting and maintenance. Faults and errors are normally present in software, but this is easily removed. In this process, complete software programs are regularly compiled and executed to see if issues can be found and rectified. Large software programs, which contain millions of source code lines, are divided into small components. For efficiency, each component is debugged separately at first, followed by the program as a whole. 
 
-The debugging process helps remove bugs and faults throughout the development of the application. Taking away faults and errors from an application will lower the chance that a flaw will be found in an application. This will make the application more robust   
+The debugging process helps remove bugs and faults throughout the development of the application. Taking away faults and errors from an application will lower the chance that a flaw will be found in an application. This will make the application more robust as the chance of the application failing would masssively reduce. This is because errors and faults lead to an application being less resilient, users with bad intentions will target the system. 
+
+In the debugging process, bugs can be purposely produced. This will allow the error to be understood from an attacker's perspective,enabling tests to be done against high level threats.   
+
+
 
 
 
