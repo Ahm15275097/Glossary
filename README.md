@@ -160,7 +160,7 @@ Programs go through alot of  testing, updating, troubleshooting and maintenance.
 
 The debugging process helps remove bugs and faults throughout the development of the application. Taking away faults and errors from an application will lower the chance that a flaw will be found in an application. This will make the application more robust as the chance of the application failing would masssively reduce. This is because errors and faults lead to an application being less resilient, users with bad intentions will target the system. 
 
-In the debugging process, bugs can be purposely produced. This will allow the error to be understood from an attacker's perspective,enabling tests to be done against high level threats.   
+In the debugging process, bugs can be purposely produced. This will allow the error to be understood from an attacker's perspective,enabling tests to be done against high level threats. Doing tests such as these allows the developer to see if the application works as they would like it to. The developer can also see how well their application reacts to threats and if any more improvements could me made. This would make the application more secure.
 
 
 
