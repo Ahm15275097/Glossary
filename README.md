@@ -63,6 +63,18 @@ Parsing is the process of analysing a string of symbols, this can be either in n
 3. Explicitly execute the stored precompiled code produced by a compiler which is part of the interpreter system
 
 
+#  Examine  the  implementation  of  an  algorithm  in  a  suitable  language.  Evaluate  the  relationship  between  the  written algorithm  and the code variant
+
+![Flowchart](https://i.imgur.com/qjTRYkp.png)
+
+
+Code: https://github.com/Ahm15275097/High-and-Low-/blob/master/Code.cpp
+
+
+
+
+
+
 
 # Give explanations of what procedural, object orientated and event driven paradigms are; their characteristics and the relationship between them.
 
@@ -129,6 +141,20 @@ Compile and build:  IDEs translate code from  languages to the object code(code 
 Debugging: IDE's also have an internal debugger, the developer can use this tool to see if there are any errors in the code. The debugger can help the developer clear any faults if they are present. The debugging process is mentioned below along with debugging facilities in the IDE.
 
 
+# Using an IDE vs Not using an IDE
+
+An integrated development environment supplies the user with various tools to help with creating and developing code. This report will be about the following projects, 'Traceball', which was created in notepad without the use of an IDE, and 'HighorLow', which was create in repli.it with the use of an IDE. 
+
+Traceball  : https://github.com/Ahm15275097/Traceball/blob/master/code.html
+
+HighandLow : https://github.com/Ahm15275097/High-and-Low-/blob/master/Code.cpp
+
+
+When a program is in development and an IDE isn't in use, various problems can arise. The lack of assistance when coding slows down the completion time dramatically. For example, the absence of syntax highlighting causes alot of time proofreading and making sure that functions and variables are spelt correctly. This was so that no unexpected errors and bugs were found when the program was executed. Traceball, due to it being much more difficult and more proofreading done took much longer to create than HighandLow. In repl.it everything was made so much easier, the code was understood better as every was categorised and there were no issues with syntax.
+Testing for the highandlow game was quick and easy as all that needed to be done was click a button. This was the benefit of using repl.it, as it was accessible more tests were done to make sure there weren't any errors and this allowed the flow of the programing to be better. To test the Traceball game, the file needed to  be saved with a .html extension. Then it had to be run in a browser which supported javascript, this was very time consuming and stopped the flow of programming.The debugging was also alot better with the use of an IDE. Finding a bug and solving it was very efficient as if something went wrong a command line would inform the developer straight away. On the Traceball project if something had gone wrong, the developer would have to go back to a previous file to see what they added and what caused the problem. 
+
+
+
 
 
 # Explain  the  debugging  process and explain  the debugging  facilities  available  in  the  IDE. 
@@ -161,6 +187,16 @@ Programs go through alot of  testing, updating, troubleshooting and maintenance.
 The debugging process helps remove bugs and faults throughout the development of the application. Taking away faults and errors from an application will lower the chance that a flaw will be found in an application. This will make the application more robust as the chance of the application failing would masssively reduce. This is because errors and faults lead to an application being less resilient, users with bad intentions will target the system. 
 
 In the debugging process, bugs can be purposely produced. This will allow the error to be understood from an attacker's perspective,enabling tests to be done against high level threats. Doing tests such as these allows the developer to see if the application works as they would like it to. The developer can also see how well their application reacts to threats and if any more improvements could me made. This would make the application more secure.
+
+
+# Critically evaluate why a coding standard is necessary in a team as well as for the individual.
+
+Coding standards are essential to having a well written program, this is so that when it is read by others it can be clearly understood. This is more important in a team when everyone needs to follow the same standards so that there won't be any unexpected errors. 
+
+When a group project is assigned, everybody will work on the same program but will work on there own set tasks. No matter how the tasks are distributed it is vital that the coding standards are followed by each individual. Coding standards will help the team write up the code in the same format so the way the code is presented and looks remains consistant. For example, if 2 group members like to indent the code in certain parts of the program, for example after new functions have been created, and the other don't, the format of the code will look untidy and will make the work unprofessional. Coding standards ensure that everyone is together and there are no differences in code format. 
+
+Coding standards are also important for when an idividual writes a piece of code. For example when trying to find errors and debugging, if the code is well written and is presented well, it will be easier to find bugs. Also when revisting code, it will be better understood, if the developer hasn't senn this piece of code in a long it can be easily understood if the coding standards were adhered to/. 
+
 
 
 
