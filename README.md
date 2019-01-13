@@ -195,7 +195,7 @@ Coding standards are essential to having a well written program, this is so that
 
 When a group project is assigned, everybody will work on the same program but will work on there own set tasks. No matter how the tasks are distributed it is vital that the coding standards are followed by each individual. Coding standards will help the team write up the code in the same format so the way the code is presented and looks remains consistant. For example, if 2 group members like to indent the code in certain parts of the program, for example after new functions have been created, and the other don't, the format of the code will look untidy and will make the work unprofessional. Coding standards ensure that everyone is together and there are no differences in code format. 
 
-Coding standards are also important for when an idividual writes a piece of code. For example when trying to find errors and debugging, if the code is well written and is presented well, it will be easier to find bugs. Also when revisting code, it will be better understood, if the developer hasn't senn this piece of code in a long it can be easily understood if the coding standards were adhered to/. 
+Coding standards are also important for when an idividual writes a piece of code. For example when trying to find errors and debugging, if the code is well written and is presented well, it will be easier to find bugs. Also when revisting code, it will be better understood, if the developer hasn't senn this piece of code in a long it can be easily understood if the coding standards were adhered to. 
 
 
 
